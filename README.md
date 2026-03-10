@@ -41,11 +41,12 @@ Immo Predictor est une application de Machine Learning développée dans le cadr
 ## 🛠️ Technologies
 
 - **Langage** : Python 3.10
+- **Prétraitement** : Pandas, StandardScaler, OneHotEncoder
 - **ML** : Scikit-learn (Random Forest, SVM, Decision Tree)
+- **Sérialisation** : Pickle
 - **Interface** : Gradio
 - **API** : FastAPI + Uvicorn
 - **Déploiement** : Hugging Face Spaces + Docker
-- **Prétraitement** : Pandas, StandardScaler, OneHotEncoder
 
 ---
 
